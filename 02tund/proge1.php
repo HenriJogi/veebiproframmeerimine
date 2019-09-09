@@ -18,5 +18,6 @@
 	<P>See leht on loodud koolis õppetöö raames ja ei sisalda tösiseltvöetavat sisu?</p>
 	<p>Sisenemise aeg: <?php echo $fullTimeNow; ?> </p>
 	<?php echo $partOfDay ?>
+	<hr>
 </body>
 </html>
